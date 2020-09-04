@@ -30,3 +30,15 @@ img {
 #text {
   margin-bottom: 200px;
 }
+
+#controls {
+  margin-bottom: 15px;
+}
+
+.newBox {
+  margin-bottom: 10px;
+}
+
+.fragment {
+  margin-bottom: 50px;
+}
